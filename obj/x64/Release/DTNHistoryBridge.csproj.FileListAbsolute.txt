@@ -1,0 +1,10 @@
+D:\Brian Tomeo\Code\DTNHistoryBridge\bin\x64\Release\DTNHistoryBridge.exe
+D:\Brian Tomeo\Code\DTNHistoryBridge\bin\x64\Release\DTNHistoryBridge.pdb
+D:\Brian Tomeo\Code\DTNHistoryBridge\bin\x64\Release\AxInterop.IQFEEDYLib.dll
+D:\Brian Tomeo\Code\DTNHistoryBridge\bin\x64\Release\Interop.IQFEEDYLib.dll
+D:\Brian Tomeo\Code\DTNHistoryBridge\obj\x64\Release\ResolveAssemblyReference.cache
+D:\Brian Tomeo\Code\DTNHistoryBridge\obj\x64\Release\DTNHistoryBridge.Properties.Resources.resources
+D:\Brian Tomeo\Code\DTNHistoryBridge\obj\x64\Release\GenerateResource-ResGen.read.1.tlog
+D:\Brian Tomeo\Code\DTNHistoryBridge\obj\x64\Release\GenerateResource-ResGen.write.1.tlog
+D:\Brian Tomeo\Code\DTNHistoryBridge\obj\x64\Release\DTNHistoryBridge.exe
+D:\Brian Tomeo\Code\DTNHistoryBridge\obj\x64\Release\DTNHistoryBridge.pdb
